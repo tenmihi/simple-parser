@@ -2,7 +2,7 @@
   "name": "simple-parser",
   "version": "0.0.1",
   "description": "Regex based simple parser",
-  "main": "index.js",
+  "main": "./index.js",
   "scripts": {
     "build": "webpack -p",
     "start": "npm run build && npm run watch",
