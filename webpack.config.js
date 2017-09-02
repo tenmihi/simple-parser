@@ -1,7 +1,6 @@
 const path = require('path');
 
 module.exports = {
-  cache: true,
   entry: 'parser.js',
   output: {
     path: path.resolve(__dirname, './'),

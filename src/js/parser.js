@@ -1,4 +1,4 @@
-export default class SimpleParser {
+export default class {
   constructor () {
     this.rules = []
   }
