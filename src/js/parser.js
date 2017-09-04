@@ -19,4 +19,5 @@
     return text
   }
 }
-export default new SimpleParser();
+
+module.exports = SimpleParser
