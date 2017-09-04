@@ -1,4 +1,4 @@
- class SimpleParser {
+ export default class SimpleParser {
   constructor() {
     this.rules = []
   }
@@ -19,5 +19,3 @@
     return text
   }
 }
-
-module.exports = SimpleParser
